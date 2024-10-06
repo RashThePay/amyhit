@@ -1,0 +1,26 @@
+2024/10/05-10:36:39.186270 7f81bcfbc700 Recovering log #38
+2024/10/05-10:36:39.186401 7f81bcfbc700 Level-0 table #40: started
+2024/10/05-10:36:39.201776 7f81bcfbc700 Level-0 table #40: 988 bytes OK
+2024/10/05-10:36:39.221778 7f81bcfbc700 Delete type=0 #38
+2024/10/05-10:36:39.221857 7f81bcfbc700 Delete type=3 #36
+2024/10/05-11:15:04.584150 7f7c9d9b4700 Level-0 table #43: started
+2024/10/05-11:15:04.593134 7f7c9d9b4700 Level-0 table #43: 991 bytes OK
+2024/10/05-11:15:04.601194 7f7c9d9b4700 Delete type=0 #41
+2024/10/05-11:15:04.638880 7f7c9d9b4700 Manual compaction at level-0 from '!settings!81G1PDrlFx5aJVm2' @ 72057594037927935 : 1 .. '!settings!x1299b0ZmJUCqsZk' @ 0 : 0; will stop at '!settings!ZW845v7SET9H5dgU' @ 47 : 1
+2024/10/05-11:15:04.638890 7f7c9d9b4700 Compacting 4@0 + 0@1 files
+2024/10/05-11:15:04.648544 7f7c9d9b4700 Generated table #44@0: 3 keys, 1106 bytes
+2024/10/05-11:15:04.648569 7f7c9d9b4700 Compacted 4@0 + 0@1 files => 1106 bytes
+2024/10/05-11:15:04.658713 7f7c9d9b4700 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/05-11:15:04.658782 7f7c9d9b4700 Delete type=2 #37
+2024/10/05-11:15:04.658842 7f7c9d9b4700 Delete type=2 #43
+2024/10/05-11:15:04.658881 7f7c9d9b4700 Delete type=2 #40
+2024/10/05-11:15:04.658920 7f7c9d9b4700 Delete type=2 #34
+2024/10/05-11:15:04.676251 7f7c9d9b4700 Manual compaction at level-0 from '!settings!ZW845v7SET9H5dgU' @ 47 : 1 .. '!settings!x1299b0ZmJUCqsZk' @ 0 : 0; will stop at (end)
+2024/10/05-11:15:04.713005 7f7c9d9b4700 Manual compaction at level-1 from '!settings!81G1PDrlFx5aJVm2' @ 72057594037927935 : 1 .. '!settings!x1299b0ZmJUCqsZk' @ 0 : 0; will stop at '!settings!ZW845v7SET9H5dgU' @ 51 : 1
+2024/10/05-11:15:04.713014 7f7c9d9b4700 Compacting 1@1 + 1@2 files
+2024/10/05-11:15:04.721246 7f7c9d9b4700 Generated table #45@1: 15 keys, 4497 bytes
+2024/10/05-11:15:04.721260 7f7c9d9b4700 Compacted 1@1 + 1@2 files => 4497 bytes
+2024/10/05-11:15:04.729252 7f7c9d9b4700 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/05-11:15:04.729339 7f7c9d9b4700 Delete type=2 #44
+2024/10/05-11:15:04.729407 7f7c9d9b4700 Delete type=2 #30
+2024/10/05-11:15:04.729533 7f7c9d9b4700 Manual compaction at level-1 from '!settings!ZW845v7SET9H5dgU' @ 51 : 1 .. '!settings!x1299b0ZmJUCqsZk' @ 0 : 0; will stop at (end)
