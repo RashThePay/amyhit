@@ -1,0 +1,22 @@
+2024/10/05-10:36:39.137300 7f81be7bf700 Recovering log #33
+2024/10/05-10:36:39.162132 7f81be7bf700 Delete type=3 #31
+2024/10/05-10:36:39.162208 7f81be7bf700 Delete type=0 #33
+2024/10/05-11:15:04.572664 7f7c9d9b4700 Level-0 table #37: started
+2024/10/05-11:15:04.572707 7f7c9d9b4700 Level-0 table #37: 0 bytes OK
+2024/10/05-11:15:04.584102 7f7c9d9b4700 Delete type=0 #35
+2024/10/05-11:15:04.619302 7f7c9d9b4700 Manual compaction at level-0 from '!scenes!HzDLJ5QMXJ0D4kLx' @ 72057594037927935 : 1 .. '!scenes.walls!HzDLJ5QMXJ0D4kLx.yqTqD6SlUVw8QjXQ' @ 0 : 0; will stop at '!scenes.tokens.delta.items!asCANozhff11GGNI.CEk3Z9Z6RPOqZb5F.OXb7LF4FH4xHOXak.gdhSETmKuwJBdRzy' @ 20 : 1
+2024/10/05-11:15:04.619310 7f7c9d9b4700 Compacting 2@0 + 0@1 files
+2024/10/05-11:15:04.629658 7f7c9d9b4700 Generated table #38@0: 206 keys, 19763 bytes
+2024/10/05-11:15:04.629673 7f7c9d9b4700 Compacted 2@0 + 0@1 files => 19763 bytes
+2024/10/05-11:15:04.638220 7f7c9d9b4700 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/05-11:15:04.638328 7f7c9d9b4700 Delete type=2 #29
+2024/10/05-11:15:04.638479 7f7c9d9b4700 Delete type=2 #32
+2024/10/05-11:15:04.676232 7f7c9d9b4700 Manual compaction at level-0 from '!scenes.tokens.delta.items!asCANozhff11GGNI.CEk3Z9Z6RPOqZb5F.OXb7LF4FH4xHOXak.gdhSETmKuwJBdRzy' @ 20 : 1 .. '!scenes.walls!HzDLJ5QMXJ0D4kLx.yqTqD6SlUVw8QjXQ' @ 0 : 0; will stop at (end)
+2024/10/05-11:15:04.695322 7f7c9d9b4700 Manual compaction at level-1 from '!scenes!HzDLJ5QMXJ0D4kLx' @ 72057594037927935 : 1 .. '!scenes.walls!HzDLJ5QMXJ0D4kLx.yqTqD6SlUVw8QjXQ' @ 0 : 0; will stop at '!scenes.walls!HzDLJ5QMXJ0D4kLx.yqTqD6SlUVw8QjXQ' @ 396 : 1
+2024/10/05-11:15:04.695331 7f7c9d9b4700 Compacting 1@1 + 1@2 files
+2024/10/05-11:15:04.705226 7f7c9d9b4700 Generated table #39@1: 188 keys, 19170 bytes
+2024/10/05-11:15:04.705241 7f7c9d9b4700 Compacted 1@1 + 1@2 files => 19170 bytes
+2024/10/05-11:15:04.712779 7f7c9d9b4700 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/05-11:15:04.712852 7f7c9d9b4700 Delete type=2 #25
+2024/10/05-11:15:04.712940 7f7c9d9b4700 Delete type=2 #38
+2024/10/05-11:15:04.729477 7f7c9d9b4700 Manual compaction at level-1 from '!scenes.walls!HzDLJ5QMXJ0D4kLx.yqTqD6SlUVw8QjXQ' @ 396 : 1 .. '!scenes.walls!HzDLJ5QMXJ0D4kLx.yqTqD6SlUVw8QjXQ' @ 0 : 0; will stop at (end)
