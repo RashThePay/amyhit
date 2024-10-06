@@ -1,15 +1,13 @@
 {
-  "title": "Shadows Forgotten",
-  "id": "shadows-forgotten",
-  "system": "dnd5e",
-  "background": "photo_2024-10-02_16-58-34.jpg",
-  "joinTheme": "minimal",
-  "coreVersion": "12.331",
-  "compatibility": {
-    "minimum": "12",
-    "verified": "12"
-  },
-  "systemVersion": "4.0.4",
-  "lastPlayed": "Sat Oct 05 2024 11:16:10 GMT+0330 (Iran Standard Time)",
-  "playtime": 123764
-}
+    "title": "Amyhit",
+    "url": "https://github.com/RashThePay/amyhit",
+    "version": "1.0",
+    "system": "dnd5e",
+    "download": "https://raw.githubusercontent.com/RashThePay/amyhit/refs/heads/main/amyhit.zip",
+    "background": "photo_2024-10-02_16-58-34.jpg",
+    "coreVersion": "12.331",
+    "resetKeys": false,
+    "safeMode": false,
+    "systemVersion": "4.0.4",
+    "id": "amyhit"
+  }
